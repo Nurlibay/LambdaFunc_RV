@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LambdaFunc_RV</string>
+    <string name="title_text">This is Title Text</string>
+    <string name="description_text">This is Description Text</string>
+</resources>
